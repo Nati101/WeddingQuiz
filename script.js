@@ -1,13 +1,5 @@
 const quizData = [
     {
-        question: "Where does the train attach to the dress??",
-        a: "The Front",
-        b: "The Back",
-        c: "The Veil",
-        d: "The Wrist",
-        correct: "b",
-    },
-    {
         question: "Who will Miki get married to?",
         a: "Nati",
         b: "Rahel",
@@ -15,6 +7,15 @@ const quizData = [
         d: "Other",
         correct: "b",
     },
+    {
+        question: "Where does the train attach to the dress??",
+        a: "The Front",
+        b: "The Back",
+        c: "The Veil",
+        d: "The Wrist",
+        correct: "b",
+    },
+    
     {
         question: "Which hand is the wedding ring worn on?",
         a: "Left Hand",
