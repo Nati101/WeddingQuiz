@@ -32,6 +32,14 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "Who made this website",
+        a: "Miki",
+        b: "Henok",
+        c: "Nati", 
+        d: "unknown",
+        correct: "c",
+    }
 ];
 
 const quiz = document.getElementById("quiz");
